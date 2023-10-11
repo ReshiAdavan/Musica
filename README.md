@@ -1,4 +1,6 @@
-# Musica - An AI Music Composer
+# Musica
+
+My AI Music Composer
 
 ## Training
 
