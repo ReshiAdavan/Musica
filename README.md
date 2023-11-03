@@ -21,5 +21,3 @@ python predict.py
 ```
 
 You can run the prediction file right away using the **weights.hdf5** file
-
-PLEASE NOTE: Project still in progress - Formatting and other changes TBD. Functionality complete.
